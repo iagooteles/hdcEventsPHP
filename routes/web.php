@@ -11,8 +11,11 @@ Route::get('/events/{id}', [EventController::class, 'show']);
 
 Route::post('/events', [EventController::class, 'store']);
 
+Route::delete('/events/{id}', [Eventcontroller::class, 'destroy']);
+
 Route::get('/contact', function() {
     return view('contact');
 });
 
 Route::get('/dashboard', [EventController::class, 'dashboard']);
+
