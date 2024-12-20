@@ -1,3 +1,7 @@
+## TODO:
+
+Arrumar responsividade / estilização.
+
 # HDCEvents
 
 HDCEvents é um sistema de gerenciamento de eventos desenvolvido em PHP utilizando o framework **Laravel**. Com ele, os usuários podem criar eventos, fazer o CRUD completo dos mesmos, participar de eventos criados por outras pessoas e acompanhar tudo em um dashboard dinâmico. Para criar ou participar de eventos, é necessário criar uma conta e realizar a autenticação.
