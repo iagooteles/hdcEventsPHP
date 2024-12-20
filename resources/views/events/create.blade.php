@@ -11,6 +11,7 @@
         <div class="form-group">
             <label for="image">Imagem do evento:</label>
             <input type="file" class="image" id="image" name="image" placeholder="Imagem do evento">
+            <p class="mt-2">*Caso nenhuma imagem seja escolhida, será utilizada a imagem padrão.</p>
         </div>
         <div class="form-group">
             <label for="title">Evento:</label>
