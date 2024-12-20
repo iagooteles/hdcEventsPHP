@@ -65,6 +65,8 @@ php artisan migrate
 php artisan serve
 ```
 
+OBS: Certifique-se de estar rodando o XAMPP (se necessário);
+
 7. Compile os assets para desenvolvimento:
 ```bash
 npm run dev
